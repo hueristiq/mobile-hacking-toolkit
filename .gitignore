@@ -1,0 +1,13 @@
+# Uncompressed (configurations & scripts)
+
+configurations
+scripts
+
+# Data
+
+/data/**/*
+!/data/.gitkeep
+
+# Notes
+
+notes.txt
